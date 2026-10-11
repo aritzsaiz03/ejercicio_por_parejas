@@ -1,1 +1,2 @@
-# ejercicio_por_parejasModificado por Blanca
+# ejercicio_por_parejas
+Modificado por Blanca
